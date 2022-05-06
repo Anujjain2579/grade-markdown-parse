@@ -18,5 +18,5 @@ public class GradingTests {
         List<String> expect = List.of();
         assertEquals(MarkdownParse.getLinks("[]("), expect);
     }
-
+    
 }
